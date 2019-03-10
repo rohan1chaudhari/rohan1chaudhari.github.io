@@ -6,6 +6,7 @@ category: articles
 tags: [Deep Learning, Computer Vision, Pytorch]
 ---
 
+Image Classifcation of MNIST dataset in Pytorch.
 
 ## Importing packages and installing Pytorch
 

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "CIFAR-10 Image classification"
-description: "Image Classification for MNIST"
+description: "Image Classification for CIFAR 10"
 category: articles
 tags: [Deep Learning, Computer Vision, Pytorch]
 ---
 
+Pytorch for Image classification of CIFAR 10 dataset.
 
 ## Imports
 
