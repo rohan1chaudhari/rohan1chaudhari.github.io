@@ -1,11 +1,9 @@
 ---
-categories:
-  - Deep Learning
-tags:
-  - python
-  - pytorch
-  - image classification
-  - CIFAR-10
+layout: post
+title: "CIFAR-10 Image classification"
+description: "Image Classification for MNIST"
+category: articles
+tags: [Deep Learning, Computer Vision, Pytorch]
 ---
 
 

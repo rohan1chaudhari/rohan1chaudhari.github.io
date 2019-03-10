@@ -1,11 +1,9 @@
-﻿---
-categories:
-  - Deep Learning
-tags:
-  - python
-  - pytorch
-  - image classification
-  - MNIST
+---
+layout: post
+title: "MNIST Image classification"
+description: "Image Classification for MNIST"
+category: articles
+tags: [Deep Learning, Computer Vision, Pytorch]
 ---
 
 
