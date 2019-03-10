@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: post-no-feature
 title: "MNIST Image classification"
-description: "Image Classification for MNIST"
+description: "Image Classification using Pytorch"
 category: articles
 tags: [Deep Learning, Computer Vision, Pytorch]
 ---
 
-Image Classifcation of MNIST dataset in Pytorch.
 
 ## Importing packages and installing Pytorch
 

@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "CIFAR-10 Image classification"
-description: "Image Classification for CIFAR 10"
+layout: post-no-feature
+title: "CIFAR 10 Image classification"
+description: "Image Classification using Pytorch"
 category: articles
 tags: [Deep Learning, Computer Vision, Pytorch]
 ---
 
-Pytorch for Image classification of CIFAR 10 dataset.
 
 ## Imports
 
